@@ -1,0 +1,7 @@
+{
+"typeChat": true,
+"canQuizPop":false,
+"randomNumber":0,
+"champion": ["one","two"],
+"battleFire":true
+}
